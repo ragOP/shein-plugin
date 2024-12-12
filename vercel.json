@@ -1,10 +1,16 @@
 {
     "rewrites": [
-     
       {
         "source": "/span1",
         "destination": "/index.html"
-       
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/(.*)",
+        "destination": "/404.html",
+        "statusCode": 404
       }
     ]
   }
+  
