@@ -11,7 +11,16 @@
       {
         "source": "/enguk1",
         "destination": "/second.html"
+      },
+      {
+        "source": "/engca",
+        "destination": "/third.html"
+      },
+      {
+        "source": "/engau",
+        "destination": "/fourth.html"
       }
+      
       
     ]
   }
