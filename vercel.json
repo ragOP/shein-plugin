@@ -3,12 +3,11 @@
       {
         "source": "/",
         "destination": "/wow.html"
-    
       },
       {
         "source": "/span1",
         "destination": "/index.html"
-       
       }
     ]
   }
+  
