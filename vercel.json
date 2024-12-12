@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+     
+      {
+        "source": "span1",
+        "destination": "/index.html"
+       
+      }
+    ]
+  }
