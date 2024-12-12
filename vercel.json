@@ -7,7 +7,12 @@
       {
         "source": "/span1",
         "destination": "/index.html"
+      },
+      {
+        "source": "/enguk1",
+        "destination": "/second.html"
       }
+      
     ]
   }
   
