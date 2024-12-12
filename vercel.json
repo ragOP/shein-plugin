@@ -5,12 +5,6 @@
         "destination": "/index.html"
       }
     ],
-    "redirects": [
-      {
-        "source": "/(.*)",
-        "destination": "/404.html",
-        "statusCode": 404
-      }
-    ]
+    "cleanUrls": true
   }
   
