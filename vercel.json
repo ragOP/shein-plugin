@@ -3,8 +3,11 @@
       {
         "source": "/span1",
         "destination": "/index.html"
+      },
+      {
+        "source": "/",
+        "destination": "/wow.html"
       }
-    ],
-    "cleanUrls": true
+    ]
   }
   
